@@ -1,1 +1,5 @@
-VimCrypt~03!¢$E-Á¸sß_zqëøÉİ>Jsêíû1~83çò¾¡ãÃ|kñl¾ê$vSéB¸]b™1ÜäÉu8Äp3ğ,9Ùoµ|ºpg1©»0¿¹UìBŞ
+#!/usr/bin/node
+
+class Rectangle {}
+
+module.exports = Rectangle;
